@@ -13,12 +13,14 @@
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV LOKAL",NET.TV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/NET.m3u
 
+
 ----Trans TV----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS.m3u
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV(alt)
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANSalt.m3u
+
 
 ----TRANS 7----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV LOKAL",TRANS7
@@ -27,9 +29,11 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS7.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV LOKAL",TRANS7(alt)
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS7alt.m3u
 
+
 ----SCTV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV LOKAL",SCTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
+
 
 ----INDOSIAR----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
@@ -38,11 +42,18 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIAR.m3u
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR (alt)
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIARalt.m3u
 
+
 ----ANTV----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/ANTV.m3u
 
+
 ----KOMPAS TV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="TV LOKAL",KOMPASTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/KOMPAS.m3u
+
+
+----TV ONE----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="TV LOKAL",TV ONE
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
 
