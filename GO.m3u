@@ -123,7 +123,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=19
 
 =================================================OLAHRAGA==================================================
 
-#EXTINF:-1   tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png" group-title="OLAHRAGA",SPOTV 1
+#EXTINF:-1   tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png" group-title="OLAHRAGA",SPOTV
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF: -1 tvg-id="SPOTV.id" group-title="OLAHRAGA" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",SPOTV
