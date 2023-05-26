@@ -88,7 +88,13 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/MNCTV.m3u
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" group-title="TV LOKAL",RCTI
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RCTI.m3u
 
-#EXTINF:-1 group-title="TV LOKAL",  RCTI+
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RCTI1.m3u
 
+----INEWS----
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/inews.png" group-title="TV LOKAL",iNews
+https://bystream.my.id/vplus/inewstvvplus.mpd
+
+#EXTINF:-1 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="LOKAL NASIONAL",Inews0
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INEWS.m3u
 
