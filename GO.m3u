@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/NET.m3u
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS.m3u
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV(alt)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV 1
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANSalt.m3u
 
 
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANSalt.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV LOKAL",TRANS7
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS7.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV LOKAL",TRANS7(alt)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV LOKAL",TRANS7 1
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS7alt.m3u
 
 
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIAR.m3u
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR (alt)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR 1
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIARalt.m3u
 
 
@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTV.m3u
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV (alt) 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV 1 
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTValt.m3u
 
 
