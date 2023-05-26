@@ -16,3 +16,6 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/NET.m3u
 ----Trans TV----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS.m3u
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV(alt)
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANSalt.m3u
