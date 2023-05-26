@@ -48,24 +48,6 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIARalt.m3u
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/ANTV.m3u
 
 
-----KOMPAS TV----
-#EXTINF:-1  tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="TV LOKAL",KOMPASTV
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/KOMPAS.m3u
-
-
-----TV ONE----
-#EXTINF:-1  tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="TV LOKAL",TV ONE
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
-
-
-----METRO TV----
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTV.m3u
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV 1 
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTValt.m3u
-
-
 ----RTV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",RTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RTV.m3u
@@ -89,19 +71,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/MNCTV.m3u
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RCTI.m3u
 
 
-----INEWS----
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/inews.png" group-title="TV LOKAL",iNews
-https://bystream.my.id/vplus/inewstvvplus.mpd
 
-#EXTINF:-1 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="TV LOKAL",iNews 1
-https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
-
-#EXTINF:-1 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="TV LOKAL",iNews 2
-https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
-##https://kusnadipepenk.github.io/campeign/inews.m3u8
-##http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
 
 
 
@@ -110,3 +80,36 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=19
 ----CNN INDONESIA----
 #EXTINF:-1  tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png" group-title="BERITA",CNN Indonesia
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/CNNINDONESIA.m3u
+
+
+----TV ONE----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="BERITA",TV ONE
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
+
+
+----METRO TV----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="BERITA",METROTV
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTV.m3u
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="BERITA",METROTV 1 
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTValt.m3u
+
+
+----KOMPAS TV----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="BERITA",KOMPASTV
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/KOMPAS.m3u
+
+
+----INEWS----
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/inews.png" group-title="BERITA",iNews
+https://bystream.my.id/vplus/inewstvvplus.mpd
+
+#EXTINF:-1 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="BERITA",iNews 1
+https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="BERITA",iNews 2
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+##https://kusnadipepenk.github.io/campeign/inews.m3u8
+##http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
