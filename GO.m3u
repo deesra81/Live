@@ -299,3 +299,14 @@ http://onntv.online:25461/live/30A612037A90/8754467/175.ts
 http://onntv.online:25461/live/30A612037A90/8754467/176.ts
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 HD " tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 7 HD 
 http://onntv.online:25461/live/30A612037A90/8754467/177.ts
+
+
+
+
+
+
+#EXTINF:-1 group-title="Live Sports", beIN Sports 1 ID
+https://s.id/1xE8K
+
+#EXTINF:-1 group-title="Live Sports", beIN Sports 3 ID
+https://s.id/1xE9b
