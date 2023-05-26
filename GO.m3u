@@ -284,3 +284,18 @@ http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS PREMIUM 02
 http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS PREMIUM 03
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 1 HD
+http://onntv.online:25461/live/30A612037A90/8754467/171.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 2 HD
+http://onntv.online:25461/live/30A612037A90/8754467/172.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 3 HD
+http://onntv.online:25461/live/30A612037A90/8754467/173.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 4 HD
+http://onntv.online:25461/live/30A612037A90/8754467/174.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 5 HD
+http://onntv.online:25461/live/30A612037A90/8754467/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 HD" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 6 HD
+http://onntv.online:25461/live/30A612037A90/8754467/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 HD " tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeINSports 7 HD 
+http://onntv.online:25461/live/30A612037A90/8754467/177.ts
