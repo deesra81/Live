@@ -134,7 +134,7 @@ https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
 ----SPOTV2----
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png" group-title="EXTRA", SPOTV2 
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png" group-title="OLAHRAGA", SPOTV2 
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="SPOTV2.id" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 HD
