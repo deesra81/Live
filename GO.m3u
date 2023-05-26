@@ -1,10 +1,14 @@
 #EXTM3U
 
--------SIARAN LANGSUNG -------
-#EXTINF:0 tvg-logo="https://live-online-events.com/wp-content/uploads/2016/08/Logo-LiveOnlineEvents-Amsterdam-LOE-TV-Color.png" group-title="ACARA LANGSUNG",Langsung 1
+================================================SIARAN LANGSUNG
+
+#EXTINF:0 tvg-logo="" group-title="ACARA LANGSUNG",Langsung 1
 
 
-#EXTINF:0 tvg-logo="https://live-online-events.com/wp-content/uploads/2016/08/Logo-LiveOnlineEvents-Amsterdam-LOE-TV-Color.png" group-title="ACARA LANGSUNG",Langsung 2
+#EXTINF:0 tvg-logo="" group-title="ACARA LANGSUNG",Langsung 2
+
+
+
 
 
 =================================================TV LOKAL==================================================
@@ -74,7 +78,6 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RCTI.m3u
 
 
 
-
 =================================================BERITA==================================================
 
 ----CNN INDONESIA----
@@ -113,3 +116,9 @@ https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-A
 https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 ##https://kusnadipepenk.github.io/campeign/inews.m3u8
 ##http://kuchini.site:8080/live/joeBt/e229c03d/157579.ts
+
+
+
+
+
+=================================================OLAHRAGA==================================================
