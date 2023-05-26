@@ -98,6 +98,7 @@ https://bystream.my.id/vplus/inewstvvplus.mpd
 #EXTINF:-1 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="TV LOKAL",Inews0
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INEWS.m3u
 
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="TV LOKAL",i•BERITA•TIVI•@
+https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
 
 
