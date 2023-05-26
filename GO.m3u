@@ -98,9 +98,5 @@ https://bystream.my.id/vplus/inewstvvplus.mpd
 #EXTINF:-1 tvg-logo="https://img.uncyc.org/id/thumb/0/09/INews.png/300px-INews.png" group-title="TV LOKAL",Inews0
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INEWS.m3u
 
-#EXTINF:-1 group-title="MNC Channels",  iNews
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://inews-azure.rctiplus.id/inews-sdi.m3u8
 
 
