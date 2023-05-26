@@ -77,3 +77,18 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RTV.m3u
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/GTV.m3u
 
 
+----MNCTV----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="TV LOKAL",MNCtv
+##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
+##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/MNCTV.m3u
+
+
+----RCTI----
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" group-title="TV LOKAL",RCTI
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RCTI.m3u
+
+#EXTINF:-1 group-title="TV LOKAL",  RCTI+
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RCTI1.m3u
+
+
