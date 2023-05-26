@@ -113,6 +113,13 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTValt.m3u
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/KOMPAS.m3u
 
 
+----MNC News----
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-guC4bnwDWVo/XN1EBTyzz-I/AAAAAAAAn7I/TCfRmf4s0Bs_zsbJy5e_1rNd6vWE_rr9ACLcBGAs/s1600/mnc-news-tv-channel-logo.png" group-title="BERITA",MNC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+
 ----INEWS----
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -196,3 +203,22 @@ http://5.255.90.238:5002/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="MOVIE",HBO
 https://raw.githubusercontent.com/deesra81/Live/main/MOVIE/HBO.m3u
+
+
+
+
+
+=================================================SPORTS==================================================
+
+----BeIN Sports 1 Indonesia----
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="SPORTS",BeIn Sports 1 Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4109bac9f47008baeee3a85af300872:f6e662900a61abd5716f061459f86b7d
+https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+
+----BeIN Sports 3 Indonesia----
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_306.png" group-title="SPORTS",BeIn Sports 3 Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
+https://nyanv-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
