@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIAR.m3u
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR (alt)
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIARalt.m3u
 
 ----ANTV----
