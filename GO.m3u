@@ -5,8 +5,8 @@
 #EXTINF:0 tvg-logo="" group-title="SIARAN LANGSUNG",BADMINTON 1
 https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|User-Agent=Dalvik/2.1.0
 
-#EXTINF:0 tvg-logo="" group-title="ACARA LANGSUNG",Langsung 2
-
+#EXTINF:0 tvg-logo="" group-title="SIARAN LANGSUNG",BADMINTON 2
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&extension=ts&play_token=1kEm8DbZmS
 
 
 
@@ -141,3 +141,10 @@ http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941563&e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/SPOTV2-HD
 https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+----MNC Sports----
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg" group-title="OLAHRAGA",MNC Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
