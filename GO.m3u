@@ -10,5 +10,5 @@
 =================================================TV LOKAL==================================================
 
 ----NET TV----
-#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="LOKAL NASIONAL",NET.TV
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV LOKAL",NET.TV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/NETTV.m3u
