@@ -108,5 +108,5 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=19
 =================================================BERITA==================================================
 
 ----CNN INDONESIA----
-#EXTINF:-1  tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png" group-title="LOKAL NASIONAL",CNN Indonesia
+#EXTINF:-1  tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png" group-title="BERITA",CNN Indonesia
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/CNNINDONESIA.m3u
