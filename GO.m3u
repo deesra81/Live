@@ -62,7 +62,13 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTV.m3u
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV2
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV (alt) 
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTValt.m3u
+
+
+----RTV----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",RTV
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RTV.m3u
+##http://210.210.155.35/dr9445/h/h10/02.m3u8
 
 
