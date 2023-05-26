@@ -42,3 +42,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIARalt.m3u
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV LOKAL",ANTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/ANTV.m3u
 
+----KOMPAS TV----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="TV LOKAL",KOMPASTV
+
+
