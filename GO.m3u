@@ -258,3 +258,29 @@ http://hostengine.live/live/wrecks82/habsiptv82/112416.m3u8
 ----BeIN Sports 3----
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",AU:BEINSPORTS 3
 http://hostengine.live/live/wrecks82/habsiptv82/112417.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS 04
+http://hostengine.live/live/wrecks82/habsiptv82/56346.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS 05
+http://hostengine.live/live/wrecks82/habsiptv82/56347.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS 06
+http://hostengine.live/live/wrecks82/habsiptv82/56348.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS 07
+http://hostengine.live/live/wrecks82/habsiptv82/56349.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS 08
+http://hostengine.live/live/wrecks82/habsiptv82/56350.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS ENGLISH 01
+http://hostengine.live/live/wrecks82/habsiptv82/56341.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS ENGLISH 02
+http://hostengine.live/live/wrecks82/habsiptv82/56342.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS ENGLISH 03
+http://hostengine.live/live/wrecks82/habsiptv82/56343.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS LALIGA
+http://hostengine.live/live/wrecks82/habsiptv82/56352.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS PREMIUM 01
+http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS PREMIUM 02
+http://hostengine.live/live/wrecks82/habsiptv82/56344.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BEINSPORTS PREMIUM 03
