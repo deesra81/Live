@@ -57,3 +57,12 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/KOMPAS.m3u
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="TV LOKAL",TV ONE
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
 
+
+----METRO TV----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTV.m3u
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="TV LOKAL",METROTV2
+https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTValt.m3u
+
+
