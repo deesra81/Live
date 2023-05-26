@@ -243,3 +243,7 @@ http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45708
 ----BeIN Premium 3----
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",BeinPremier•3
 http://shareext@theking365tv.ws/play/live.php?mac=00:1A:79:5c:f4:67&stream=45710&extension=ts&play_token=shareext@.ts
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="SPORTS",AU:BEINSPORTS 1
+http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
