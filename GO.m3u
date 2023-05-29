@@ -21,7 +21,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 
 
 
-=================================================TV LOKAL==================================================
+=================================================1. TV LOKAL==================================================
 
 ----NET TV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV
@@ -120,7 +120,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RCTI.m3u
 
 
 
-=================================================BERITA==================================================
+=================================================2. BERITA==================================================
 
 ----CNN INDONESIA----
 #EXTINF:-1  tvg-logo="https://rubbyguntara.github.io/src/img/CNN Indonesia.png" group-title="2. BERITA",CNN Indonesia
@@ -247,6 +247,26 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 
 =================================================MOVIE==================================================
 
+----CITRA BIOSKOP----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg" group-title="MOVIE", CITRA BIOSKOP
+http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+
+
+----TVN MOVIES INDONESIA----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="MOVIE", TVN MOVIES INDONESIA
+http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
+
+
+----TVN PREMIUM INDONESIA----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="MOVIE", TVN PREMIUM INDONESIA
+http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
+
+
+----BIOSKOP INDONESIA----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzhdVzDn/20230520-091037.jpg" group-title="MOVIE", BIOSKOP INDONESIA
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
+
+
 ----HBO----
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -299,7 +319,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 
 
 
-=================================================SPORTS==================================================
+=================================================3. SPORTS==================================================
 
 
 #EXTINF:0 tvg-logo="https://www.livehdtv.net/uploads/kanal/25715irib-varzesh.png" group-title="3. SPORTS",Irib Varzesh
