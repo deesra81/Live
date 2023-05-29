@@ -123,9 +123,9 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 
-----3. TVRI NASIONAL----
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/3. TVRILogo2019.svg/512px-3. TVRILogo2019.svg.png" group-title="1. TV LOKAL",3. TVRI NASIONAL
-http://118.97.50.107/Content/HLS/Live/Channel(3. TVRINASIONAL)/index.m3u8
+----TVRI NASIONAL----
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="1. TV LOKAL", TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 
 ----GTV----
