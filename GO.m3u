@@ -195,43 +195,43 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 =================================================TVRI==================================================
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI OLAHRAGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI OLAHRAGA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI LAMPUNG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI LAMPUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI DKI JAKARTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI DKI JAKARTA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI NASIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI JAWA TENGAH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI JAWA TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI JAMBI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI JAMBI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI KALIMANTAN TIMUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI KALIMANTAN TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI KALIMANTAN TENGAH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI KALIMANTAN TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI JAWA TIMUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI JAWA TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
 
 
-#EXTINF:-1,(ID) TVRI SULAWESI TENGGARA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI SULAWESI TENGGARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
 
 
@@ -239,87 +239,87 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI GORONTALO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI GORONTALO
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI KALIMANTAN BARAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI KALIMANTAN BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI SUMATERA UTARA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI SUMATERA UTARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI NUSA TENGGARA TIMUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI NUSA TENGGARA TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI SULAWESI BARAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI SULAWESI BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) YOGYAKARTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) YOGYAKARTA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI BALI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI BALI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",TVRI +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI +
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI SULAWESI SELATAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI SULAWESI SELATAN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI SULAWESI TENGAH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI SULAWESI TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI RIAU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI RIAU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI BENGKULU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI BENGKULU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI BANGKA BELITUNG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI BANGKA BELITUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI PAPUA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI PAPUA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI MALUKU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI MALUKU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI KALIMANTAN SELATAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI KALIMANTAN SELATAN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI SULAWESI UTARA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI SULAWESI UTARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI ACEH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI ACEH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI NUSA TENGGARA BARAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI NUSA TENGGARA BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI SUMATERA BARAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI SUMATERA BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuUTOWz.png" group-title="TVRI",(ID) TVRI JAWA BARAT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",(ID) TVRI JAWA BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
 
 
