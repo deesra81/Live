@@ -25,7 +25,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 
 ----NET TV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/NET.m3u
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683093&extension=m3u8&play_token=xdbt7BgLik
+##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683093&extension=ts&play_token=RmFK3j6FUm
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 1
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
@@ -98,6 +99,25 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 ----RODJA TV----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="1. TV LOKAL",Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+
+
+----DAAI TV----
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/daaitv.png" group-title="1. TV LOKAL",DAAI TV
+https://anv-live-cdn-118.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/daaitv.png" group-title="1. TV LOKAL",DAAI TV 1
+http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/02.m3u8
+
+
+----MOJI----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. TV LOKAL",Moji
+http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. TV LOKAL",Moji 1
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. TV LOKAL",Moji 2
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 
 ----TVRI NASIONAL----
