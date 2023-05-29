@@ -450,8 +450,8 @@ https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
 
-----TVN 5. MOVIESS INDONESIA----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="5. MOVIES", TVN 5. MOVIESS INDONESIA
+----TVN MOVIES INDONESIA----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="5. MOVIES", TVN MOVIES INDONESIA
 http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 
 
@@ -492,7 +492,9 @@ http://5.255.90.238:5002/play/a014/index.m3u8
 
 ----HBO----
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="5. MOVIES",HBO
-https://raw.githubusercontent.com/deesra81/Live/main/5. MOVIES/HBO.m3u
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941648&extension=m3u8&play_token=xdbt7BgLik683152
+##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
+##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683152&extension=ts&play_token=RmFK3j6FUm
 
 
 ----HBO HD----
