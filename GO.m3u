@@ -78,7 +78,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683153&extension=
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="1. TV LOKAL", ANTV 1
-https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+http://rr2.dens.tv/s/s07/index.m3u8
 
 
 ----RTV----
@@ -451,6 +451,14 @@ https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.
 
 
 
+#EXTINF:-1,Fox Sport
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1,Fox Sport2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1,Fox Sport3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+
 =================================================5. MOVIES==================================================
 
 ----CITRA BIOSKOP----
@@ -459,12 +467,12 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 
 
 ----TVN MOVIES INDONESIA----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="5. MOVIES", TVN MOVIES INDONESIA
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="5. MOVIES", TVN MOVIES INDONESIA
 http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 
 
 ----TVN PREMIUM INDONESIA----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="5. MOVIES", TVN PREMIUM INDONESIA
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="5. MOVIES", TVN PREMIUM INDONESIA
 http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 
 
