@@ -90,6 +90,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
 
+----TV9 NUSANTARA----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="TV LOKAL", TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+
 ----TVRI NASIONAL----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV LOKAL",TVRI NASIONAL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
@@ -129,6 +134,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="BERITA",TV ONE 1
 http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
+
 ----METRO TV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="BERITA",METROTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTV.m3u
@@ -138,8 +144,21 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/METROTValt.m3u
 
 
 ----KOMPAS TV----
-#EXTINF:-1  tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="BERITA",KOMPASTV
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="BERITA",KOMPAS TV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/KOMPAS.m3u
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="BERITA",KOMPAS TV 1
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+
+----JAKARTA GLOBE NEWS----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/SIgwO6M.png" group-title="BERITA",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+
+----BERITA SATU----
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="BERITA",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 
 ----MNC News----
