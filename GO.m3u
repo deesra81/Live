@@ -51,8 +51,8 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS7alt.m3u
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV LOKAL",SCTV 1
-##http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+##https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
 
 ----INDOSIAR----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
