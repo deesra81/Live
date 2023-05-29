@@ -30,6 +30,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/NET.m3u
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="TV LOKAL",NET.TV 1
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
+
 ----Trans TV----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV LOKAL",TRANSTV
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS.m3u
@@ -54,6 +55,7 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 ##https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
 
+
 ----INDOSIAR----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV LOKAL",INDOSIAR
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIAR.m3u
@@ -72,12 +74,26 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/ANTV.m3u
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/RTV.m3u
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="TV LOKAL",RTV 1
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+
 
 ----BTV----
 #EXTINF:0 #EXTINF:0 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="TV LOKAL",BTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+
+----JTV----
+#EXTINF:-1  tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="TV LOKAL",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+
+
+----TVRI NASIONAL----
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TV LOKAL",TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
 
 ----GTV----
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/GTV_(2017).svg/revision/latest/scale-to-width-down/200?cb=20180321091517" group-title="TV LOKAL",GLOBALTV
@@ -110,6 +126,8 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/CNNINDONESIA.m3u
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="BERITA",TV ONE
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TVONE.m3u
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="BERITA",TV ONE 1
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
 ----METRO TV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="BERITA",METROTV
