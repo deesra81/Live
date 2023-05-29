@@ -450,7 +450,12 @@ https://webudit.salamus1.lol/lb/premium43/index.m3u8
 https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
+----USEE PRIME----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="3. SPORTS", USEE PRIME
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="3. SPORTS", USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 
 
@@ -550,5 +555,16 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 
 
 
+=================================================6. FOOTBALL==================================================
+
+
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="6. FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 1
+http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="6. FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 2
+http://hostengine.live/live/wrecks82/habsiptv82/112416.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="6. FOOTBALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 3
+http://hostengine.live/live/wrecks82/habsiptv82/112417.m3u8
 
 
