@@ -267,6 +267,14 @@ http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
 
 
+----K+----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHQDW1S/20230520-095202.jpg" group-title="MOVIE", K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFHQDW1S/20230520-095202.jpg" group-title="MOVIE", K+
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=926172&extension=m3u8&play_token=xdbt7BgLik
+
+
 ----HBO----
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
