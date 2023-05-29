@@ -608,38 +608,3 @@ https://webudit.salamus1.lol/lb/premium90/index.m3u8?|referer=https://widevine.l
 https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/
 
 
-
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium31/index.m3u8
-
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium32/index.m3u8
-
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium33/index.m3u8
-
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium34/index.m3u8
-
-#EXTINF:-1 tvg-id="BTSport5.uk" tvg-name="BT Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 5
-http://hostengine.live/live/wrecks82/habsiptv82/53854.m3u8
-
-#EXTINF:-1 tvg-id="BTSport7.uk" tvg-name="BT Sport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 7
-http://hostengine.live/live/wrecks82/habsiptv82/53856.m3u8
-
-#EXTINF:-1 tvg-id="BTSport8.uk" tvg-name="BT Sport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 8
-http://hostengine.live/live/wrecks82/habsiptv82/53857.m3u8
-
-#EXTINF:-1 tvg-id="BTSport9.uk" tvg-name="BT Sport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 9
-http://hostengine.live/live/wrecks82/habsiptv82/53858.m3u8
-
-#EXTINF:-1 tvg-id="BTSport10.uk" tvg-name="BT Sport 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5km6rw9vuKO9mCcMuee-xg6AksjaE-1s0w&usqp=CAU" group-title="6. FOOTBALL",BT Sport 10
-http://hostengine.live/live/wrecks82/habsiptv82/53859.m3u8
