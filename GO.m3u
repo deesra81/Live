@@ -192,6 +192,105 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 
 
+=================================================TVRI==================================================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Gorontalo (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcH92DJ.png" group-title="TVRI", TVRI Yogyakarta (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="TVRI", TVRI Bali (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Kalimantan Selatan (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqizBAD.png" group-title="TVRI", Usee Prime (720p)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ND64L5.png" group-title="TVRI", TVRI Kalimantan Timur (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Aceh (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSlIQt.png" group-title="TVRI", TVRI Kalimantan Tengah (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Sulawesi Tenggara (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSgiYnp.png" group-title="TVRI", TVRI DKI Jakarta (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCJnteP.png" group-title="TVRI", TVRI Sulawesi Selatan (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8102yhJ.png" group-title="TVRI", TVRI Lampung (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSERkWC.png" group-title="TVRI", TVRI Riau (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General", TVRI Nasional (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Kalimantan Barat (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkZf4bq.png" group-title="TVRI", TVRI Sumatera Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Sulawesi Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acFJNef.png" group-title="TVRI", TVRI Nusa Tenggara Timur (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrmZvc.png" group-title="TVRI", TVRI Jawa Tengah (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qswy60o.png" group-title="TVRI", TVRI Bengkulu (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Maluku (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vxe6tcn.png" group-title="TVRI", TVRI Jawa Timur (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ7Aqy5.png" group-title="TVRI", TVRI Papua (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+
+
+
+
+
+
+
 
 =================================================OLAHRAGA==================================================
 
@@ -335,7 +434,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 
 
 #EXTINF:0 tvg-logo="https://www.livehdtv.net/uploads/kanal/25715irib-varzesh.png" group-title="3. SPORTS",Irib Varzesh
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8?efwgrgr=undefined
+https://live.aionet.ir/hls/varzesh/varzesh.m3u8?efwgrgr=TVRI
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/S/san-marino-rtv-sport-2021-logo-DE84A78C93-seeklogo.com.png" group-title="3. SPORTS",RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
