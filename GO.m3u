@@ -475,6 +475,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=926172&extension=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXcNz3Sb/20230520-094301.jpg" group-title="5. MOVIES", SONY GEM
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
+
 ----HBO----
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -490,6 +491,7 @@ http://5.255.90.238:5002/play/a014/index.m3u8
 https://raw.githubusercontent.com/deesra81/Live/main/5. MOVIES/HBO.m3u
 
 
+----HBO HD----
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -498,6 +500,8 @@ https://raw.githubusercontent.com/deesra81/Live/main/5. MOVIES/HBO.m3u
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="5. MOVIES",HBO HD
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
+
+----HBO FAMILY----
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -506,6 +510,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="5. MOVIES",HBO Family 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
+
+----HBO SIGNATURE----
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -514,6 +520,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="5. MOVIES",HBO Signature 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
+
+----HBO HITS----
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
