@@ -71,8 +71,12 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/INDOSIARalt.m3u
 
 
 ----ANTV----
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="1. TV LOKAL",ANTV
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/ANTV.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="1. TV LOKAL", ANTV
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683153&extension=m3u8&play_token=xdbt7BgLik
+##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="1. TV LOKAL", ANTV 1
+https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048056
 
 
 ----RTV----
