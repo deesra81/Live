@@ -34,7 +34,8 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 ----Trans TV----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="1. TV LOKAL",TRANSTV
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS.m3u
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683100&extension=m3u8&play_token=xdbt7BgLik
+##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683100&extension=ts&play_token=RmFK3j6FUm
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="1. TV LOKAL",TRANSTV 1
 https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANSalt.m3u
@@ -42,10 +43,12 @@ https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANSalt.m3u
 
 ----TRANS 7----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="1. TV LOKAL",TRANS7
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS7.m3u
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683116&extension=m3u8&play_token=xdbt7BgLik
+##https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GyG8nnz0JhVWifKe_V3gMcNwrikB0R-fJUeRjmALJye2)/dm/3/x6p1gw7/d/live-2.m3u8#cell=lsg1
+##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683116&extension=ts&play_token=RmFK3j6FUm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="1. TV LOKAL",TRANS7 1
-https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/TRANS7alt.m3u
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sleng.m3u8
 
 
 ----SCTV----
