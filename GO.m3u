@@ -409,7 +409,9 @@ https://webudit.salamus1.lol/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA",Astro SuperSport 5
 https://webudit.salamus1.lol/lb/premium43/index.m3u8
 
-
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="3. SPORTS",Astro SuperSport 2
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium124/index.m3u8
 
 
 =================================================MOVIE==================================================
