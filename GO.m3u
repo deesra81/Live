@@ -460,7 +460,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="3. SPORTS", USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="3. SPORTS", beIN Sports Indonesia 1
+http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 
 =================================================5. MOVIES==================================================
 
@@ -814,3 +815,5 @@ https://www.googleapis.com/drive/v3/files/1_XdP_w2W1IlktHgHucYo4S7_4HrD_TfR?alt=
 https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD INDO",Kau & Dia
 https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
