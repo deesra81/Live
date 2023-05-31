@@ -467,6 +467,15 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="4. OLAHRAGA", USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", USEE SPORT 1
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=useesport&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", USEE SPORT 2
+http://iptvid.my.id/hmm/biawakbinal/pulau999/useesport2.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", beIN Sports Indonesia 1
 http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 
