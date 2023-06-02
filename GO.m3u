@@ -137,6 +137,21 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 
+----NUSANTARA TV----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="1. TV LOKAL", ID: Nusantara TV
+http://kuchini.site:8080/edmian50con/ab121ba8/166410
+
+
+----OK TV----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="1. TV LOKAL", ID: OK TV
+http://kuchini.site:8080/edmian50con/ab121ba8/221956
+
+
+----INSERT----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="1. TV LOKAL", ID: Insert
+http://kuchini.site:8080/edmian50con/ab121ba8/264766
+
+
 ----TVRI NASIONAL----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="1. TV LOKAL", TVRI NASIONAL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
@@ -207,12 +222,12 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 
 ----CNBC INDONESIA----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" tvg-logo="" group-title="2. BERITA",CNBC Indonesia
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" tvg-logo="" group-title="2. BERITA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b192000_sleng.m3u8
 
 
 ----IDX Ch----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="2. BERITA",IDX Ch
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="2. BERITA",IDX Ch
 https://kusnadipepenk.github.io/campeign/idx.m3u8
 
 
@@ -390,7 +405,7 @@ https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 ----SPOTV2----
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png" group-title="4. OLAHRAGA", SPOTV2 
-http://shareext@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=941563&extension=ts&play_token=shareext.ts
+http://kuchini.site:8080/edmian50con/ab121ba8/298571
 
 #EXTINF:-1 group-title="4. OLAHRAGA" tvg-id="SPOTV2.id" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -559,6 +574,11 @@ https://kusnadipepenk.github.io/campeign/zeeb.m3u8
 ----THRILL----
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="5. MOVIES",THRILL
 https://kusnadipepenk.github.io/campeign/thril.m3u8
+
+
+----ETV BIOSKOP----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="5. MOVIES", ID: Etv Bioskop
+http://kuchini.site:8080/edmian50con/ab121ba8/298526
 
 
 ----WARNER TV----
