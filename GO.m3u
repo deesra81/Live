@@ -376,6 +376,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
 
 =================================================4. OLAHRAGA==================================================
 
+
 ----SPOTV----
 #EXTINF:-1   tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png" group-title="4. OLAHRAGA",SPOTV
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&extension=ts&play_token=1kEm8DbZmS
@@ -456,8 +457,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792
 
 ----Astro Cricket----
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="4. OLAHRAGA",ASTRO CRICKET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157565
 
 
 ----USEE PRIME----
@@ -501,6 +501,8 @@ http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 ----beIN Sports Indonesia 2----
 #EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", beIN Sports Indonesia 3
 http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
+
+
 
 
 =================================================5. MOVIES==================================================
