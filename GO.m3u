@@ -99,7 +99,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 ----JTV----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. TV LOKAL",JTV
-https://anevia115.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/165091
+##https://anevia115.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 ##http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. TV LOKAL",JTV 1
@@ -197,7 +198,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 
 ----JAKARTA GLOBE NEWS----
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SIgwO6M.png" group-title="2. BERITA",JAKARTA GLOBE NEWS
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/166399.m3u8
+http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/166399
 
 
 ----BERITA SATU----
