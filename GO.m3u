@@ -205,6 +205,16 @@ https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 
+----CNBC INDONESIA----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" tvg-logo="" group-title="2. BERITA",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1725438040_b192000_sleng.m3u8
+
+
+----IDX Ch----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="2. BERITA",IDX Ch
+https://kusnadipepenk.github.io/campeign/idx.m3u8
+
+
 ----MNC News----
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-guC4bnwDWVo/XN1EBTyzz-I/AAAAAAAAn7I/TCfRmf4s0Bs_zsbJy5e_1rNd6vWE_rr9ACLcBGAs/s1600/mnc-news-tv-channel-logo.png" group-title="2. BERITA",MNC News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -495,12 +505,12 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 
 ----TVN MOVIES INDONESIA----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="5. MOVIES", TVN MOVIES INDONESIA
-http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
+https://kusnadipepenk.github.io/campeign/tvnmovies.m3u8
 
 
 ----TVN PREMIUM INDONESIA----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="5. MOVIES", TVN PREMIUM INDONESIA
-http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
+https://kusnadipepenk.github.io/campeign/tvn.m3u8
 
 
 ----BIOSKOP INDONESIA----
@@ -524,6 +534,26 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 ----ONE----
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg" group-title="5. MOVIES", ONE
 http://210.210.155.37/uq2663/h/h143/index.m3u8
+
+
+----KIX----
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vvKpnbc/kixx.jpg" group-title="5. MOVIES",KIX
+https://kusnadipepenk.github.io/campeign/kix.m3u8
+
+
+----ZEE BIOSKOP----
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ByFQvJQ/zeebioskop.jpg" group-title="5. MOVIES",ZEE BIOSKOP
+https://kusnadipepenk.github.io/campeign/zeeb.m3u8
+
+
+----THRILL----
+#EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="5. MOVIES",THRILL
+https://kusnadipepenk.github.io/campeign/thril.m3u8
+
+
+----WARNER TV----
+#EXTINF:-1  tvg-logo="" group-title="5. MOVIES",Warner TV
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wrnr.m3u8
 
 
 ----HBO id----
@@ -690,6 +720,48 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="6. FOOTBALL",BT SPORT 4 ESPN
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298471.ts
+
+
+
+
+=================================================7. RELIGI=========================
+
+----LIFE CH----
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="7. RELIGI",life CH
+https://kusnadipepenk.github.io/campeign/life.m3u8
+
+
+----IAM CHANNEL----
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="7. RELIGI",IAM Channel
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
+
+----U-CHANNEL----
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="7. RELIGI",U-Channel
+http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
+
+
+----REFORMED 21----
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="7. RELIGI",Reformed 21
+https://kusnadipepenk.github.io/campeign/reform.m3u8
+
+
+----ALQURAN ALKAREM----
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="7. RELIGI",Alquran AlKarem
+http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683102&extension=ts&play_token=RmFK3j6FUm
+
+
+----TV MUHAMMADIYAH----
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="7. RELIGI",TV Muhammadiyah
+https://kusnadipepenk.github.io/campeign/muhtv.m3u8
+
+
+----MUSLIM TV----
+#EXTINF:-1  tvg-logo="https://pcwyoming.org/wp-content/uploads/2020/04/prayer-hands.jpeg" group-title="7. RELIGI",Muslim TV
+https://kusnadipepenk.github.io/campeign/muslim.m3u8
+
+
+
 
 
 
