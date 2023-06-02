@@ -495,27 +495,27 @@ http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/298578
 
 
 ----CHAMPION TV 1----
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. OLAHRAGA", Champion TV 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="4. OLAHRAGA", Champion TV 1
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298512.m3u8
 
 
 ----CHAMPION TV 2----
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. OLAHRAGA", Champion TV 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="4. OLAHRAGA", Champion TV 2
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298513.m3u8
 
 
 ----CHAMPION TV 3----
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4. OLAHRAGA", Champion TV 3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="4. OLAHRAGA", Champion TV 3
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298514.m3u8
 
 
 ----beIN Sports Indonesia 1----
-#EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", beIN Sports Indonesia 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="4. OLAHRAGA", beIN Sports Indonesia 1
 http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 
 
-----beIN Sports Indonesia 2----
-#EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", beIN Sports Indonesia 3
+----beIN Sports Indonesia 3----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="4. OLAHRAGA", beIN Sports Indonesia 3
 http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 
