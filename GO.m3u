@@ -31,6 +31,9 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683093&extension=
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 1
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 1
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/13488
+
 
 ----Trans TV----
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="1. TV LOKAL",TRANSTV
