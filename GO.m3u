@@ -24,14 +24,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 =================================================1. TV LOKAL==================================================
 
 ----NET TV----
-#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 1
 http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683093&extension=m3u8&play_token=xdbt7BgLik
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683093&extension=ts&play_token=RmFK3j6FUm
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 2
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="1. TV LOKAL",NET.TV 3
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/13488
 
 
