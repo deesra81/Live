@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
+refresh="3600"
+
+
 
 ================================================SIARAN LANGSUNG
 
@@ -756,6 +759,15 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="6. FOOTBALL",BT SPORT 4 ESPN
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298471.ts
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/1200px-Sony_Channel_Logo_2019.svg.png" group-title="6. FOOTBALL",SONY TEN 1
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/16622.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/1200px-Sony_Channel_Logo_2019.svg.png" group-title="6. FOOTBALL",SONY TEN 2
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/16621.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/1200px-Sony_Channel_Logo_2019.svg.png" group-title="6. FOOTBALL",SONY TEN 3
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/56191.ts
 
 
 
