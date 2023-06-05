@@ -657,27 +657,27 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 
 
 ----Cinemachi----
-#EXTINF:-1 tvg-logo="" group-title="5. MOVIES,Cinemachi
+#EXTINF:-1 tvg-logo="" group-title="5. MOVIES",Cinemachi
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 
 ----Cinemachi Xtra----
-#EXTINF:-1 tvg-logo="" group-title="5. MOVIES,Cinemachi Xtra
+#EXTINF:-1 tvg-logo="" group-title="5. MOVIES",Cinemachi Xtra
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 
 ----Cinemachi Kids----
-#EXTINF:-1 tvg-logo="" group-title="5. MOVIES,Cinemachi Kids
+#EXTINF:-1 tvg-logo="" group-title="5. MOVIES",Cinemachi Kids
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 
 ----Cinemachi Action----
-#EXTINF:-1 tvg-logo="" group-title="5. MOVIES,Cinemachi Action
+#EXTINF:-1 tvg-logo="" group-title="5. MOVIES",Cinemachi Action
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 
 ----FLIK----
-#EXTINF:-1 tvg-logo="" group-title="5. MOVIES, FLIK
+#EXTINF:-1 tvg-logo="" group-title="5. MOVIES", FLIK
 https://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
 =================================================6. FOOTBALL==================================================
