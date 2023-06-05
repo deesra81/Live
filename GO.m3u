@@ -87,7 +87,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683153&extension=
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="1. TV LOKAL", ANTV 1
-http://rr2.dens.tv/s/s07/index.m3u8
+https://beetv.my.id/x/oxygen-antv-gojokkk.m3u8
 
 
 ----RTV----
@@ -693,16 +693,19 @@ https://webudit.salamus1.lol/lb/premium99/index.m3u8?|referer=https://widevine.l
 https://webudit.salamus1.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 
+----beIN Sports English----
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" 
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/284530
+
+
 ----beIN Sports 1 English----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="6. FOOTBALL",beIN Sports 1 English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2272
 
 
 ----beIN Sports 2 English----
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="6. FOOTBALL",beIN Sports 2 English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/151022
 
 
 ----beIN Sports 3 English----
