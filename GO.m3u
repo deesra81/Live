@@ -656,6 +656,24 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
 
+----Cinemachi----
+#EXTINF:-1 group-title="5. MOVIES,Cinemachi
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+
+----Cinemachi Xtra----
+#EXTINF:-1 group-title="5. MOVIES,Cinemachi Xtra
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+
+----Cinemachi Kids----
+#EXTINF:-1 group-title="5. MOVIES,Cinemachi Kids
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+
+----Cinemachi Action----
+#EXTINF:-1 group-title="5. MOVIES,Cinemachi Action
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 
 =================================================6. FOOTBALL==================================================
@@ -814,9 +832,14 @@ https://kusnadipepenk.github.io/campeign/muhtv.m3u8
 https://kusnadipepenk.github.io/campeign/muslim.m3u8
 
 
+----MAKKAH LIVE----
+#EXTINF:-1  tvg-logo="" group-title="7. RELIGI",MAKKAH Live
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 
 
-
+----MAKKAH----
+#EXTINF:-1  tvg-logo="" group-title="7. RELIGI",MAKKAH
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 
 ===================================================VOD===========================================
