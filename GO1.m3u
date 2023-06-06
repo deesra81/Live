@@ -5,7 +5,7 @@
 
 ============2. TV LOKAL
 
-----NET TV----
++++++++ NET TV +++++++
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="2. TV LOKAL",NET.TV
 http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683093&extension=m3u8&play_token=xdbt7BgLik
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683093&extension=ts&play_token=RmFK3j6FUm
@@ -14,7 +14,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683093&extension=
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 
-----Trans TV----
++++++++ Trans TV +++++++
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="2. TV LOKAL",TRANSTV
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683100&extension=m3u8&play_token=xdbt7BgLik
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683100&extension=ts&play_token=RmFK3j6FUm
@@ -23,7 +23,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683100&extension=
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1317535298_b544100_sleng.m3u8
 
 
-----TRANS 7----
++++++++ TRANS 7 +++++++
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="2. TV LOKAL",TRANS7
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683116&extension=m3u8&play_token=xdbt7BgLik
 ##https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GyG8nnz0JhVWifKe_V3gMcNwrikB0R-fJUeRjmALJye2)/dm/3/x6p1gw7/d/live-2.m3u8#cell=lsg1
@@ -36,7 +36,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sl
 https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048056
 
 
-----SCTV----
++++++++ SCTV +++++++
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="2. TV LOKAL",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 ##http://103.167.167.5:8111/play/a00o/index.m3u8
@@ -47,7 +47,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 ##https://raw.githubusercontent.com/deesra81/Live/main/LOKAL/SCTV.m3u
 
 
-----INDOSIAR----
++++++++ INDOSIAR +++++++
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="2. TV LOKAL",INDOSIAR
 http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/02.m3u8
 
@@ -55,7 +55,7 @@ http://210.210.155.35/session/3b5cc59e-6fcc-11e9-90a7-b82a72d63267/qwr9ew/s/s04/
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=994885&extension=m3u8&play_token=xdbt7BgLik
 
 
-----ANTV----
++++++++ ANTV +++++++
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="2. TV LOKAL", ANTV
 http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683153&extension=m3u8&play_token=xdbt7BgLik
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
@@ -64,7 +64,7 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683153&extension=
 http://rr2.dens.tv/s/s07/index.m3u8
 
 
-----RTV----
++++++++ RTV +++++++
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="2. TV LOKAL",RTV
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683095&extension=m3u8&play_token=xdbt7BgLik
 ##http://210.210.155.35/dr9445/h/h10/02.m3u8
@@ -73,14 +73,14 @@ http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683095&extension=
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
 
-----BTV----
++++++++ BTV +++++++
 #EXTINF:0 #EXTINF:0 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="2. TV LOKAL",BTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 
-----JTV----
++++++++ JTV +++++++
 #EXTINF:-1  tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="2. TV LOKAL",JTV
 http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/165091
 ##https://anevia115.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
@@ -91,12 +91,12 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/165091
 ##https://cdn09jtedge.indihometv.com/dvr/139/jtv/manifest.mpd?o1=1876533000&o2=1876533000&o3=1876533000&oa=1876533000
 
 
-----TV9 NUSANTARA----
++++++++ TV9 NUSANTARA +++++++
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="2. TV LOKAL", TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
-----MOJI----
++++++++ MOJI +++++++
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="2. TV LOKAL",Moji
 http://javahome.my.id:9090/play/do8jBLP2kjOtczXd30khId4SNptgwqMK_-tTEYELHtk/ts
 
@@ -107,39 +107,39 @@ http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 
-----NUSANTARA TV----
++++++++ NUSANTARA TV +++++++
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="2. TV LOKAL", Nusantara TV
 http://kuchini.site:8080/edmian50con/ab121ba8/166410
 
 
-----OK TV----
++++++++ OK TV +++++++
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="2. TV LOKAL", OK TV
 http://kuchini.site:8080/edmian50con/ab121ba8/221956
 
 
-----INSERT----
++++++++ INSERT +++++++
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="2. TV LOKAL", Insert
 http://kuchini.site:8080/edmian50con/ab121ba8/264766
 
 
-----TVRI NASIONAL----
++++++++ TVRI NASIONAL +++++++
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="2. TV LOKAL", TVRI NASIONAL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 
-----GTV----
++++++++ GTV +++++++
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/GTV_(2017).svg/revision/latest/scale-to-width-down/200?cb=20180321091517" group-title="2. TV LOKAL",GLOBALTV
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
 
 
-----MNCTV----
++++++++ MNCTV +++++++
 #EXTINF:-1  tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="2. TV LOKAL",MNCtv
 http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683098&extension=m3u8&play_token=xdbt7BgLik
 ##http://kuchini.site:8080/live/joeBt/e229c03d/165054.ts
 ##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
 
 
-----RCTI----
++++++++ RCTI +++++++
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/s1600/Logo%2BRCTI.png" group-title="2. TV LOKAL",RCTI
 http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683099&extension=m3u8&play_token=xdbt7BgLik
 

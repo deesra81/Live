@@ -1,0 +1,139 @@
+#EXTM3U
+
+
+=================================================4. OLAHRAGA==================================================
+
+----SPOTV----
+#EXTINF:-1   tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png" group-title="4. OLAHRAGA",SPOTV
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF: -1 tvg-id="SPOTV.id" group-title="4. OLAHRAGA" tvg-logo="https://aqfadtv.xyz/logos/SPOTV_v2.png",SPOTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/SPOTV-HD
+https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+----SPOTV2----
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png" group-title="4. OLAHRAGA", SPOTV2 
+http://kuchini.site:8080/edmian50con/ab121ba8/298571
+
+#EXTINF:-1 group-title="4. OLAHRAGA" tvg-id="SPOTV2.id" tvg-logo="https://aqfadtv.xyz/logos/SPOTV2_v2.png",SPOTV2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/SPOTV2-HD
+https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+----MNC Sports----
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg" group-title="4. OLAHRAGA",MNC Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+
+----MNC Sports 2----
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/72cb1403/24c1_r32.jpg" group-title="4. OLAHRAGA",MNC Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+
+----MNC Sports 3
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg" group-title="4. OLAHRAGA",MNC Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+
+----Soccer Channel----
+#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg" group-title="4. OLAHRAGA",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+
+----TVRI SPORT----
+#EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+
+----Astro SuperSport----
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. OLAHRAGA",Astro SuperSport
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068
+
+
+----Astro SuperSport 2----
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. OLAHRAGA",Astro SuperSport 2
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556
+
+
+----Astro SuperSport 3----
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. OLAHRAGA",Astro SuperSport 3
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
+
+
+----Astro SuperSport 4----
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. OLAHRAGA",Astro SuperSport 4
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
+
+
+----Astro SuperSport 5----
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="4. OLAHRAGA",Astro SuperSport 5
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792
+
+
+----Astro Cricket----
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="4. OLAHRAGA",ASTRO CRICKET
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157565
+
+
+----USEE PRIME----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="4. OLAHRAGA", USEE PRIME
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="4. OLAHRAGA", USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+
+----USEE SPORT 1----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="4. OLAHRAGA", USEE SPORT 1
+http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/298577
+
+
+----USEE SPORT 2----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="4. OLAHRAGA", USEE SPORT 2
+http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/298578
+
+
+----CHAMPION TV 1----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="4. OLAHRAGA", Champion TV 1
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298512.m3u8
+
+
+----CHAMPION TV 2----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="4. OLAHRAGA", Champion TV 2
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298513.m3u8
+
+
+----CHAMPION TV 3----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="4. OLAHRAGA", Champion TV 3
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/298514.m3u8
+
+
+----beIN Sports Indonesia 1----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="4. OLAHRAGA", beIN Sports Indonesia 1
+http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+
+
+----beIN Sports Indonesia 3----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="4. OLAHRAGA", beIN Sports Indonesia 3
+http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
+
+
+----SPEED TV----
+#EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", SPEED TV
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.m3u8
+
+
+----MOTORVISION TV----
+#EXTINF:-1 tvg-logo="" group-title="4. OLAHRAGA", MOTORVISION TV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
